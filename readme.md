@@ -25,8 +25,8 @@ replace name and birthdate
 
 ```js
 6   const config = {
-7     birthdate: 'Jan 29, 2020',
-8     name: 'Darlene'
+7     birthdate: 'March 21, 2025',
+8     name: 'Schekina La gloire de Dieu'
 9   };
 ```
 
@@ -56,8 +56,5 @@ $ surge
 
 #### acknowledgements
 
-Feel free to use any part of this! Contributions are welcome,
-I managed to put this together year ago when I didnt know any js or anything about programming/webdev in general.
-So thanks to all copepen which I copied, use few parts of.
-
+Entire project from Pavan Jadhaw I used it to wish an happy birthday to my sister
 &nbsp;
