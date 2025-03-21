@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'March 21, 2025',
-  name: 'Schékina La gloire de Dieu'
+  name: 'Schékina Tieleo'
 };
 
 function hideEverything() {
